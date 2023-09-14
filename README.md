@@ -1,16 +1,21 @@
-### Hi there 👋
+# FirstName LastName - Project Manager Specialist :briefcase:
 
-<!--
-**LaLouviere/LaLouviere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experience :computer:
 
-Here are some ideas to get you started:
+- **Capital One** – Product Manager Extern :credit_card:
+- **ServiceNow** – SWE Extern :gear:
+- **Amazon Web Services** – AWS University Scout :cloud:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Fact :tada:
+
+My dog got a job offer before me 🐕
+
+## Projects :rocket:
+
+- [x] [Fake News Detector](https://github.com) - Collaborated on ML project using logistic regression to detect fake news. Achieved 96.8% accuracy. Tech: Python, TF-IDF.
+- [x] [Inventory Management App](https://github.com) - Developed a Node.js-based Inventory Management App during Capital One Tech Mini-Mester. Tech: Node, NPM, lowdb, crypto.
+- [ ] [Upcoming Project](https://github.com) - Details to be added.
+
+## Connect with Me :handshake:
+
+Here is my [LinkedIn](https://www.linkedin.com/in/firstname-lastname/) if you want to connect :smiley:
